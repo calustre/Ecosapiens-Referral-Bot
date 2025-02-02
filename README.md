@@ -16,7 +16,7 @@ Before installing, ensure you have Node.js and npm (Node Package Manager) instal
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dante4rt/Ecosapiens-Referral-Bot.git
+git clone https://github.com/calustre/Ecosapiens-Referral-Bot.git
 ```
 
 2. Navigate to the project directory:
